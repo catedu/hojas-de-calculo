@@ -10,9 +10,9 @@
         },
         "git-author": {
             "position": "bottom",
-            "modifyTpl": "Last modified by {user} {timeStamp}",
-            "createTpl": "Created by {user} {timeStamp}",
-            "timeStampFormat": "YYYY-MM-DD HH:mm:ss"
+            "modifyTpl": "Ultima actualización por {user} {timeStamp}",
+            "createTpl": false,
+            "timeStampFormat": "DD-MM-YYYY HH:mm:ss"
         }
     }
 }
