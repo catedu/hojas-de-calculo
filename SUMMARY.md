@@ -3,7 +3,7 @@
 * [Introducción](README.md)
 
 ____
-### Módulo 1: Comenzando con las hojas de cálculo | M1: Comenzando con las hojas de cálculo 
+### 1. Comenzando con las hojas de cálculo
 * [Módulo 1: Comenzando con las hojas de cálculo](index0.md)
 * [Contenidos](contenidos.md)
 	* [U1. Hojas de cálculo](u1_hojas_de_clculo.md)
@@ -14,6 +14,8 @@ ____
 		* [Tema 3. Google Drive](tema_3_google_drive.md)
 		* [Autoevaluación](autoevaluacin.md)
 * [Créditos](crditos.md)
+
+<!--
 ### Módulo 2: Trabajando con fórmulas | M2: Trabajando con fórmulas 
 * [Módulo 2: Trabajando con fórmulas](index1.md)
 * [Contenidos](contenidos1.md)
@@ -48,3 +50,4 @@ ____
 	* [U3: Formularios de Google Drive](u3_formularios_de_google_drive.md)
 * [Autoevaluación](autoevaluacin4.md)
 * [Créditos](crditos4.md)
+-->

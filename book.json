@@ -1,1 +1,18 @@
-{ "plugins": ["youtube", "accordion", "image-captions"], "pluginsConfig": { "image-captions": { "caption": "Imagen - _CAPTION_" } } }
+{
+    "plugins": ["youtube", "accordion", "image-captions", "styled-blockquotes", "localized-footer", "git-author"],
+    "pluginsConfig": {
+        "image-captions": {
+            "caption": "Imagen - _CAPTION_"
+        },
+        "localized-footer": {
+            "hline": true,
+            "filename": "./FOOTER.md"
+        },
+        "git-author": {
+            "position": "bottom",
+            "modifyTpl": "Last modified by {user} {timeStamp}",
+            "createTpl": "Created by {user} {timeStamp}",
+            "timeStampFormat": "YYYY-MM-DD HH:mm:ss"
+        }
+    }
+}

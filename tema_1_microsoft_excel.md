@@ -1,7 +1,4 @@
-
 # Tema 1. Microsoft Excel
-
- 
 
 Microsoft Excel es un programa de hoja de cálculo que se encuentra dentro del paquete de Office de Microsoft. En los ordenadores de los centros educativos públicos aragoneses, tenemos instaladas las versiones 2003 o/y 2007.
 
@@ -9,10 +6,7 @@ La principal característica de este programa, en cualquiera de sus versiones, e
 
 Dependiendo de cual es la versión que tú quieres utilizar deberás consultar un apartado u otro de los siguientes:
 
- 
-<td style="text-align: center; background-color: #edc74e;">**Excel 2003**</td>
-
- 
+## Excel 2003
 
 Ya hay en el mercado algunas versiones posteriores como Excel 2007 o Excel 2010, aunque muchas personas siguen utilizando esta versión: **Excel 2003**.
 
@@ -22,8 +16,7 @@ Para conocer el aspecto y los primeros pasos con este programa, puedes visitar e
 - El subapartado 2.1: Introducir datos
 - El subapartado 2.2: Formatos
 
-  
-<td style="background-color: #edc74e; text-align: center;">**Excel 2007/10**</td>
+## Excel 2007/10
 
 El programa **Excel 2007** presenta una serie de ventajas respecto a la versión anterior, Excel 2003.
 
@@ -31,12 +24,7 @@ Si estás acostumbrado a esa versión 2003 notarás, desde el momento en que abr
 
 El primer cambio que notamos es la interfaz de usuario, es decir, la pantalla que se abre cuando iniciamos el programa. En Office 2003 aparece una barra de menús, pero hay que entrar en cada una para que se desplieguen las barras de herramientas correspondientes. El aspecto de la hoja de cálculo en Excel 2007/2010 es el siguiente:
 
- 
-
-![](img/Captura_6.jpg)
-<td style="text-align: center;">**Figura 1.06: Captura de pantalla propia. Pantalla principal Excel 2007/2010**</td>
-
- 
+![1 06 Captura de pantalla propia Pantalla principal Excel 2007/2010](img/Captura_6.jpg)
 
 Como puede observarse, las barras de herramientas se despliegan automáticamente al seleccionarlas en las barras de menú, con lo que se ahorra en tiempo y en facilidad de encontrar la orden buscada.
 
@@ -49,8 +37,6 @@ Mejora lo relativo a los gráficos: aparecen nuevos tipos de gráficos, se mejor
  
 
 La versión de **Excel 2010** mejora la anterior, en cuanto que no hay límite de celdas, añade nuevos gráficos y funciones y aumenta la precisión.
-
- 
 
 En los siguientes enlaces puedes aprender los primeros pasos con la aplicación **Excel 2007/2010**. En principio solamente tienes que entrar en los apartados que te indicamos a continuación:
 
@@ -107,23 +93,24 @@ JXUwMDNlJXUwMDBmJXUwMDA1JXUwMDBkJXUwMDEy
 <input id="showAnswersButton22_21" name="22_21showAnswersButton" onclick="$exe.cloze.toggleAnswers('22_21')" style="" type="button" value="Mostrar/Eliminar las respuestas"/>
 Habilitar JavaScript
 
+> **info**
+> ## ParaSaberMas
 
-## ParaSaberMas
+>En Excel las **medidas** de una celda (ancho de columna y alto de fila) se especifican, por defecto, en píxeles o en puntos.
 
-En Excel las **medidas** de una celda (ancho de columna y alto de fila) se especifican, por defecto, en píxeles o en puntos.
+>Si estamos utilizando la versión de 2003, ésto no puede cambiarse.
 
-Si estamos utilizando la versión de 2003, ésto no puede cambiarse.
+> Sin embargo, la versión 2007 sí permite este cambio:
 
-Sin embargo, la versión 2007 sí permite este cambio:
+>* Desde la vista **Diseño de página** (ficha Vista, grupo Vistas de libro, botón **Diseño de página**), se puede especificar el ancho de una columna o el alto de una fila en pulgadas. En esta vista, la pulgada es la unidad de medida de manera predeterminada, pero puede cambiarse a centímetros o milímetros (Botón de Microsoft Office , **Opciones de Excel**, categoría **Avanzadas**).
 
-Desde la vista **Diseño de página** (ficha Vista, grupo Vistas de libro, botón **Diseño de página**), se puede especificar el ancho de una columna o el alto de una fila en pulgadas. En esta vista, la pulgada es la unidad de medida de manera predeterminada, pero puede cambiarse a centímetros o milímetros (Botón de Microsoft Office , **Opciones de Excel**, categoría **Avanzadas**).
+> De manera aproximada la relación que existe entre puntos, píxeles y centímetros es la siguiente:<br/><br/>
 
-<br/>De manera aproximada la relación que existe entre puntos, píxeles y centímetros es la siguiente:<br/><br/>
-|**Puntos**|**Píxeles**|**Centímetros**
-<td style="text-align: center;">18</td><td style="text-align: center;">24</td><td style="text-align: center;">0.63</td>
-<td style="text-align: center;">36</td><td style="text-align: center;">48</td><td style="text-align: center;">1.27</td>
-<td style="text-align: center;">72</td><td style="text-align: center;">96</td><td style="text-align: center;">2.54</td>
-<td style="text-align: center;">108</td><td style="text-align: center;">144</td><td style="text-align: center;">3.81</td>
+| Puntos | Píxeles | Centímetros |
+|:------:|:-------:|:-----------:|
+|   18   |   24    |    0.63     |
+|   36   |   48    |    1.27     |
+|   72   |   96    |    2.54     |
+|  108   |   144   |    3.81     |
 
-<br/><br/>
-
+Esto es una prueba

@@ -7,12 +7,11 @@ El mayor potencial que presenta esta aplicación es que utiliza fórmulas que pu
 
 Otra ventaja que muestran este tipo de programas es que permiten actualizar o modificar los datos sin necesidad de volver a realizar los cálculos, ya que se recalculan automáticamente.
 
- 
-
 ![](img/Captura_11.jpg)
-<td colspan="2">** Figura 1.03: Captura de pantalla propia. Ejemplos de hojas de cálculo **</td>| 
 
- 
+![](img/Figura_03-2.jpg)
+
+![1.03 Captura de pantalla propia - Ejemplos de hojas de cálculo](img/Captura_12.jpg) 
 
 ¿Qué otras ventajas presentan?
 
@@ -33,6 +32,3 @@ Otra ventaja que muestran este tipo de programas es que permiten actualizar o mo
 La primera aplicación de hoja de cálculo para un ordenador fue VisiCalc desarrollada por Dan Bricklin en 1979. La idea surgió al ver a su profesor borrar y recalcular un montón de datos secuenciales en la pizarra, cada vez que quería cambiar alguna condición del problema o cometía algún error.
 
 Esta primera aplicación solamente contaba con cinco columnas y veinte filas, nada que ver con las dieciseismil filas y más de un millón de columnas que tiene la última versión de Microsoft Excel.
-
- 
-
