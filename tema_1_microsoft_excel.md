@@ -112,5 +112,3 @@ Habilitar JavaScript
 |   36   |   48    |    1.27     |
 |   72   |   96    |    2.54     |
 |  108   |   144   |    3.81     |
-
-Esto es una prueba

@@ -1,5 +1,6 @@
 # U2. Programas
 
+> **success**
 > En este curso vamos a tratar la existencia de tres programas diferentes para que puedas elegir el que más te convenga: **Microsoft Excel**, **Calc** de **Apache OpenOffice** y **Google Drive**. Tú decides si quieres trabajar exclusivamente con uno de ellos, con dos o si te atreves con los tres.Todas las tareas que te pediremos durante el curso pueden ejecutarse con cualquiera de ellos, a excepción del módulo 5 que veremos en su momento.En esta página te mostramos como instalarlos, pero si tú ya dispones de ellos puedes pasar directamente al tema siguiente.
 
 **Microsoft Excel**: es la hoja de cálculo desarrollada por Microsoft Office. Actualmente existen en el mercado tres versiones: 2003, 2007 y 2010. Su característica principal reside en que permite trabajar con una cantidad de información muy grande, limitada exclusivamente por el espacio físico en el que trabajemos (es decir la memoria del ordenador) y/o del espacio físico que utilicemos para guardar los documentos (es decir CD, pendrive,..). 

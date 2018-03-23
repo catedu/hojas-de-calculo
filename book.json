@@ -1,5 +1,5 @@
 {
-    "plugins": ["youtube", "accordion", "image-captions", "styled-blockquotes", "localized-footer", "git-author"],
+    "plugins": ["youtube", "accordion", "image-captions", "styled-blockquotes", "localized-footer", "git-author", "githubcontributors"],
     "pluginsConfig": {
         "image-captions": {
             "caption": "Imagen - _CAPTION_"
@@ -13,6 +13,10 @@
             "modifyTpl": "Ultima actualización por {user} {timeStamp}",
             "createTpl": false,
             "timeStampFormat": "DD-MM-YYYY HH:mm:ss"
+        },
+        "githubcontributors": {
+            "githubOwner": "catedu",
+            "githubRepository": "hojas-de-calculo"
         }
     }
 }
