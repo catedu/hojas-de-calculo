@@ -47,51 +47,28 @@ En los siguientes enlaces puedes aprender los primeros pasos con la aplicación 
 
  
 
-![](img/Captura_5.jpg)
-|**Figura 1.07: Captura pantalla propia. Primeros pasos con Excel 2007/2010**
+![Figura 1 07 Captura pantalla propia Primeros pasos con Excel 2007/2010](img/Captura_5.jpg)
 
-## Importante
+> **danger**
+>## Importante
 
-Recuerda que las extensiones con que guarda Micorsoft Excel son las siguientes:
+>Recuerda que las extensiones con que guarda Micorsoft Excel son las siguientes:
 
-**. xls** si trabajas con Excel 2003
+>**. xls** si trabajas con Excel 2003
 
-**. xlsx** si trabajas con versiones posteriores
+>**. xlsx** si trabajas con versiones posteriores
 
 ## Rellenar huecos
 
-Lea el párrafo que aparece abajo y complete las palabras que faltan.
+Lee el párrafo que aparece abajo y completa las palabras que faltan.
 
-La intersección entre una fila y una columna se denomina 
-<label class="sr-av" for="clozeBlank22_21.0">Rellenar huecos (1):</label>
-<input class="autocomplete-off" id="clozeBlank22_21.0" onkeyup="$exe.cloze.change(this)" style="width:5em" type="text" value=""/>
-JXUwMDNiJXUwMDA2JXUwMDA5JXUwMDA4JXUwMDA1
-
- . 
-
-Un libro de Excel tiene 
-<label class="sr-av" for="clozeBlank22_21.1">Rellenar huecos (2):</label>
-<input class="autocomplete-off" id="clozeBlank22_21.1" onkeyup="$exe.cloze.change(this)" style="width:4em" type="text" value=""/>
-JXUwMDJjJXUwMDA2JXUwMDE3JXUwMDE2
-
- hojas de manera predeterminada.
-
-Las 
-<label class="sr-av" for="clozeBlank22_21.2">Rellenar huecos (3):</label>
-<input class="autocomplete-off" id="clozeBlank22_21.2" onkeyup="$exe.cloze.change(this)" style="width:8em" type="text" value=""/>
-JXUwMDNiJXUwMDBjJXUwMDAzJXUwMDE5JXUwMDE4JXUwMDAzJXUwMDBmJXUwMDEy
-
- se identifican con letras y las 
-<label class="sr-av" for="clozeBlank22_21.3">Rellenar huecos (4):</label>
-<input class="autocomplete-off" id="clozeBlank22_21.3" onkeyup="$exe.cloze.change(this)" style="width:5em" type="text" value=""/>
-JXUwMDNlJXUwMDBmJXUwMDA1JXUwMDBkJXUwMDEy
-
- con números.
+{%fbq%}
+La intersección entre una fila y una columna se denomina $$celda##.
+Un libro de Excel tiene $$tres## hojas de manera predeterminada.
+Las $$columnas## se identifican con letras y las $$filas## con números.
+{%endfbq%}
 
 
-<input id="getScore22_21" onclick="$exe.cloze.showScore('22_21')" type="button" value="Averiguar la puntuación"/>
-<input id="showAnswersButton22_21" name="22_21showAnswersButton" onclick="$exe.cloze.toggleAnswers('22_21')" style="" type="button" value="Mostrar/Eliminar las respuestas"/>
-Habilitar JavaScript
 
 > **info**
 > ## ParaSaberMas

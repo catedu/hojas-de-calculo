@@ -27,8 +27,10 @@ Otra ventaja que muestran este tipo de programas es que permiten actualizar o mo
 
 - Al estar integrados con paquetes de procesadores de textos y de presentaciones, facilitan la realización de informes, análisis, etc.
 
-## ParaSaberMas
+> **tip**
+>## Para Saber Mas
 
-La primera aplicación de hoja de cálculo para un ordenador fue VisiCalc desarrollada por Dan Bricklin en 1979. La idea surgió al ver a su profesor borrar y recalcular un montón de datos secuenciales en la pizarra, cada vez que quería cambiar alguna condición del problema o cometía algún error.
+>La primera aplicación de hoja de cálculo para un ordenador fue VisiCalc desarrollada por Dan Bricklin en 1979. La idea surgió al ver a su profesor borrar y recalcular un montón de datos secuenciales en la pizarra, cada vez que quería cambiar alguna condición del problema o cometía algún error.
 
-Esta primera aplicación solamente contaba con cinco columnas y veinte filas, nada que ver con las dieciseismil filas y más de un millón de columnas que tiene la última versión de Microsoft Excel.
+>Esta primera aplicación solamente contaba con cinco columnas y veinte filas, nada que ver con las dieciseismil filas y más de un millón de columnas que tiene la última versión de Microsoft Excel.
+

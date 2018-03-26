@@ -1,22 +1,8 @@
 {
-    "plugins": ["youtube", "accordion", "image-captions", "styled-blockquotes", "localized-footer", "git-author", "githubcontributors", "autocover"],
+    "plugins": ["youtube", "accordion", "image-captions", "styled-blockquotes", "localized-footer", "git-author", "githubcontributors", "favicon", "fbqx"],
     "title": "Curso básico de hojas de cálculo",
     "author": "Carmen Tobeña Arasanz",
     "pluginsConfig": {
-        "autocover": {
-            "font": {
-                "size": null,
-                "family": "Impact",
-                "color": "#FFF"
-            },
-            "size": {
-                "w": 1800,
-                "h": 2360
-            },
-            "background": {
-                "color": "#09F"
-            }
-        },
         "image-captions": {
             "caption": "Imagen - _CAPTION_"
         },
@@ -33,6 +19,15 @@
         "githubcontributors": {
             "githubOwner": "catedu",
             "githubRepository": "hojas-de-calculo"
+        },
+        "favicon": {
+            "shortcut": "img/logo.ico",
+            "bookmark": "img/logo.ico",
+            "appleTouch": "img/logo.png",
+            "appleTouchMore": {
+                "120x120": "img/logo.png",
+                "180x180": "img/logo.png"
+            }
         }
     }
 }

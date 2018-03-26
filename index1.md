@@ -3,13 +3,9 @@
 
 Las tablas creadas en el módulo 1 quedan muy vistosas, son fáciles de modificar... pero la verdadera utilidad de las hojas de cálculo, la da precisamente su nombre:
 
-**CALCULAR**
+## Calcular
 
-es decir, realizar operaciones con funciones, que automaticen los procesos y nos faciliten el trabajo cuando manejamos cantidades de datos elevadas.
-|<object data="Introduccion_M2.swf" height="240" type="application/x-shockwave-flash" width="320"><param name="src" value="Introduccion_M2.swf"/></object>
-|**Autor: [CNICE](recursostic.educacion.es/bancoimagenes/web/). Licencia Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported. Fórmulas matemáticas<br/>**
-
- 
+Es decir, realizar operaciones con funciones, que automaticen los procesos y nos faciliten el trabajo cuando manejamos cantidades de datos elevadas. 
 
 Cuando en las operaciones que necesitamos intervienen pocos datos y además son operaciones sencillas, es decir, cuando realizamos sumas, restas, multiplicaciones o divisiones, podemos utilizar los caracteres +, -, * y / del teclado, siempre anteponiendo el signo "=" antes de la operación.
 
@@ -17,38 +13,45 @@ Lo primero que hay que comprender es que ralizaremos las operaciones, no con val
 
 Observa el siguiente ejemplo:
 
-![](img/Figura_2_01.jpg)
-<td colspan="2">**Figura 2_01: Captura de pantalla propia. Operación Suma en una hoja de cálculo**</td>
+![Figura 2_01 Captura de pantalla propia Operación Suma en una hoja de cálculo](img/Figura_2_01.jpg)
 
- 
+Si nos situamos en la celda B4, y escribimos =B2+B3 podemos ver como se suman las celdas B2 y B3. El resultado aparecerá donde escribimos la operación, es decir, en B4.
 
-** **
+Además, vemos que la fórmula se escribe en la barra de fórmulas. 
 
-# Importante
+No debemos olvidarnos de añadir el signo = antes de la operación, porque sino el programa entiende los valores como datos y no como operaciones matemáticas.
 
-Otra forma más rápida de indicar las celdas que queremos que intervengan en una operación es señalarlas directamente con el ratón.
+Prueba ahora a cambiar el valor de la celda B2, escribe por ejemplo 46 en lugar de 25.
 
-En el ejemplo anterior, nos situamos sobre la celda B4 y escribimos =
+### ¿Qué ha pasado?
 
-A continuación hacemos clic con el ratón en la celda B2
+Exacto: automáticamente la solución en B4 ha pasado a ser 88.
 
-Escribimos el signo +
 
-Por último hacemos clic con el ratón en la celda B3 y damos a Enter
+> **danger**
 
-# Objetivos
+>## Importante
 
-En este segundo módulo los objetivos que queremos alcanzar son los siguientes:
+>Otra forma más rápida de indicar las celdas que queremos que intervengan en una operación es señalarlas directamente con el ratón.
 
-- Entender la sintaxis de una fórmula.
+>En el ejemplo anterior, nos situamos sobre la celda B4 y escribimos =
 
-- Diferenciar entre referencias absolutas y relativas.
+>A continuación hacemos clic con el ratón en la celda B2
 
-- Saber utilizar correctamente funciones que hagan operaciones sencillas como sumar, promediar, raíces, máximos, mínimos, contar, operaciones lógicas, buscar entre los datos algunos que cumplan una determinada condición, etc.
+>Escribimos el signo +
 
- 
+>Por último hacemos clic con el ratón en la celda B3 y damos a Enter
 
-Todo lo anterior en cualquiera de los tres programas que componen el curso, a tu elección.
+___
 
- 
+> **info**
+>## Objetivos
+
+>En este segundo módulo los objetivos que queremos alcanzar son los siguientes:
+
+>- Entender la sintaxis de una fórmula.
+>- Diferenciar entre referencias absolutas y relativas.
+>- Saber utilizar correctamente funciones que hagan operaciones sencillas como sumar, promediar, raíces, máximos, mínimos, contar, operaciones lógicas, buscar entre los datos algunos que cumplan una determinada condición, etc.
+
+>Todo lo anterior en cualquiera de los tres programas que componen el curso, a tu elección.
 

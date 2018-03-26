@@ -15,10 +15,9 @@ Crea una hoja de cálculo, utilizando el programa que prefieras, con las siguien
 
 - El rango A2:D8 debe tener un borde exterior grueso de color azul, bordes interiores verdes y un relleno amarillo
 
-<script type="text/javascript">var feedbackquesFeedback0b38text = "Mostrar retroalimentación";</script><input class="feedbackbutton" name="toggle-feedback-quesFeedback0b38" onclick="$exe.toggleFeedback(this,true);return false" type="button" value="Mostrar retroalimentación"/>
-
-### Retroalimentación
-
+%accordion%Solución%accordion%
 
 ![](img/Captura_16.jpg)
+
+%/accordion%
 

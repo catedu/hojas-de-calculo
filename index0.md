@@ -33,12 +33,14 @@ Pero ¿qué pasos son los que hemos de seguir para conseguir esta aplicación? O
 
 - Reservamos el último módulo para mostrar un tipo de aplicación de Google Drive, que nos permitirá crear formularios e interpretar los resultados automáticamente. Sobre esto tratará el Módulo 5.
 
-## Objetivos
+> **info**
+>## Objetivos
 
-En este primer módulo los objetivos que queremos alcanzar son los siguientes:
+>En este primer módulo los objetivos que queremos alcanzar son los siguientes:
 
-- Entender qué es una hoja de cálculo.
+>- Entender qué es una hoja de cálculo.
 
-- Darnos cuenta del alcance real de la aplicación, a través de diversos ejemplos.
+>- Darnos cuenta del alcance real de la aplicación, a través de diversos ejemplos.
 
-- Conocer tres programas distintos de hoja de cálculo: Microsoft Excel, Calc y Google Drive y aprender a añadir y editar datos, y dar el formato adecuado.
+>- Conocer tres programas distintos de hoja de cálculo: Microsoft Excel, Calc y Google Drive y aprender a añadir y editar datos, y dar el formato adecuado.
+

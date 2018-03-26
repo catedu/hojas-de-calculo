@@ -10,46 +10,38 @@ En todos ellos la manera de acceder a esas funciones es la misma:
 
 - En las versiones de **Microsoft** **Excel**, la pantalla tiene este aspecto:
 
- 
+![Figura 2_06 Captura de pantalla propia Insertar función en Excel 2003](img/Figura_2_08.jpg)
 
-![](img/Figura_2_08.jpg)
-<td colspan="2"> **Figura 2_06: Captura de pantalla propia. Insertar función en Excel 2003<br/>**</td>
-
-![](img/Figura_2_09.jpg)
-<td colspan="2" style="text-align: right;">**Figura 2_07: Captura de pantalla propia. Insertar función en Excel 2007 y 2010 **</td>
-
- 
+![Figura 2_07 Captura de pantalla propia Insertar función en Excel 2007 y 201](img/Figura_2_09.jpg)
 
 - En **Calc de OpenOffice**: puedes ver esta información en el siguiente [enlace](http://wiki.open-office.es/El_Asistente_de_funciones_en_Calc).
 
- 
-
- 
-
 - En **Drive de Google** ocurre exactamente lo mismo que en la versión 2003 de Excel. Podemos acceder desde el menú **Insertar -- Función**, o desde la barra de herramientas a través del icono **Σ**. La pantalla que aparece tiene el siguiente aspecto:
 
-![](img/Figura_2_07.jpg)
-|**Figura 2_8: Captura de pantalla propia. Insertar función en Google Drive**
+![Figura 2_8 Captura de pantalla propia Insertar función en Google Drive](img/Figura_2_07.jpg)
 
-# Importante
 
-Para obtener un listado de todas las funciones disponibles en cada programa puedes acceder a los siguientes enlaces:
+> **danger**
 
-- Para [Microsoft Excel 2003 y 2007](http://office.microsoft.com/es-es/excel-help/lista-de-funciones-de-hoja-de-calculo-por-categoria-HP010079186.aspx) 
+># Importante
 
-- Para [Microsoft Excel 2010](http://office.microsoft.com/es-es/excel-help/funciones-de-excel-por-categoria-HP010342656.aspx)
+>Para obtener un listado de todas las funciones disponibles en cada programa puedes acceder a los siguientes enlaces:
 
-- Para [Calc de Apache OpenOffice](http://wiki.openoffice.org/wiki/ES/Traduccion/Calc/Funciones)
+>- Para [Microsoft Excel 2003 y 2007](http://office.microsoft.com/es-es/excel-help/lista-de-funciones-de-hoja-de-calculo-por-categoria-HP010079186.aspx) 
+>- Para [Microsoft Excel 2010](http://office.microsoft.com/es-es/excel-help/funciones-de-excel-por-categoria-HP010342656.aspx)
+>- Para [Calc de Apache OpenOffice](http://wiki.openoffice.org/wiki/ES/Traduccion/Calc/Funciones)
+>- Para [Drive de Google](https://support.google.com/drive/table/25273?hl=es)
 
-- Para [Drive de Google](https://support.google.com/drive/table/25273?hl=es)
+___
+>**tip**
 
-# ParaSaberMas
+># ParaSaberMas
 
-La mayor parte de las funciones aparecen en los tres programas tratados en el curso.
+>La mayor parte de las funciones aparecen en los tres programas tratados en el curso.
 
-Sin embargo **Google Drive** presenta algunas excepciones como son:
+>Sin embargo **Google Drive** presenta algunas excepciones como son:
 
-- **=Googletranslate** para traducir textos;
+>- **=Googletranslate** para traducir textos;
 
-- **=image()** para insertar imágenes adaptadas al tamaño real de la celda
+>- **=image()** para insertar imágenes adaptadas al tamaño real de la celda
 

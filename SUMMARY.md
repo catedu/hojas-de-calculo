@@ -13,10 +13,8 @@ ____
 		* [Tema 2. Calc de OpenOffice](tema_2_calc_de_openoffice.md)
 		* [Tema 3. Google Drive](tema_3_google_drive.md)
 		* [Autoevaluación](autoevaluacin.md)
-* [Créditos](crditos.md)
 
-<!--
-### Módulo 2: Trabajando con fórmulas | M2: Trabajando con fórmulas 
+### 2 Trabajando con fórmulas
 * [Módulo 2: Trabajando con fórmulas](index1.md)
 * [Contenidos](contenidos1.md)
 	* [U1. Sintaxis de una función](u1_sintaxis_de_una_funcin.md)
@@ -26,6 +24,8 @@ ____
 		* [Ejemplos de funciones](ejemplos_de_funciones.md)
 		* [Propuestas didácticas](propuestas_didcticas.md)
 * [Créditos](crditos1.md)
+
+<!--
 ### MÓDULO 3: Gráficos | M3: Gráficos 
 * [MÓDULO 3: Gráficos](index2.md)
 * [Contenidos](contenidos2.md)
@@ -49,5 +49,5 @@ ____
 	* [U2: Compartir archivos](u2_compartir_archivos.md)
 	* [U3: Formularios de Google Drive](u3_formularios_de_google_drive.md)
 * [Autoevaluación](autoevaluacin4.md)
-* [Créditos](crditos4.md)
+* [Créditos](crditos.md)
 -->

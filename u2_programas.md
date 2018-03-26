@@ -12,33 +12,25 @@ En la tabla siguiente te mostramos para cada una de las versiones, el icono cara
 | **2003**                                                                                                                  | **2007**                                                                                                                                                                                                                                 | **2010**                                                                                                                                                                                                                                          |
 | Si no tienes instalado este programa en tu ordenador, te aconsejamos que instales cualquiera de las versiones siguientes. | Puedes adquirir este programa en el siguiente [**Enlace**](https://products.office.com/es-es/excel), pero **no** es gratuito. Además incluimos una [guía de instalación](http://support.microsoft.com/kb/974101/es) por si la necesitas. | Puedes adquirir este programa en el siguiente [**Enlace**](http://office.microsoft.com/es-mx/store/?CTT=97), pero **no** es gratuito. Además incluimos una [guía de instalación](http://support.microsoft.com/kb/2547029/es) por si la necesitas. |
 | La extensión en que se guardan los documentos es: **.xls**                                                                | La extensión en que se guardan los documentos es: **.xlsx**                                                                                                                                                                              | La extensión en que se guardan los documentos es: **.xlsx**                                                                                                                                                                                       |
-**Calc de Apache OpenOffice**: es una hoja de cálculo de código abierto y software libre. Su adquisición es, por tanto, gratuita. Está incluida dentro del paquete ofimático de Apache OpenOffice.
 
-![](http://upload.wikimedia.org/wikipedia/commons/thumb/0/03/OOoCalc.svg/128px-OOoCalc.svg.png)
-
-La extensión en que se guardan los documentos es: **.odt**  
-
-**Hoja de cálculo dentro de Google Drive**: es un programa gratuito para usuarios que tengan una cuenta en Google, que permite crear documentos en línea. Es posible ejecutar el programa en red, aunque también podemos instalarlo en un ordenador, tableta, etc. y está disponible para todos los sistemas operativos. Cada usuario dispone de una capacidad de 15 GB.
-
-![08 Marcus Roberto](http://icons.iconarchive.com/icons/marcus-roberto/google-play/256/Google-Drive-icon.png)
-
-La extensión por defecto en que se guardan los archivos es: **.gsheet**
+| Otras soluciones a parte de Microsort                                                                                                                                                                                                                                                                                                                                    |                                              Icono                                              | Extensión                                                               |
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------|
+| **Calc de Apache OpenOffice**: es una hoja de cálculo de código abierto y software libre. Su adquisición es, por tanto, gratuita. Está incluida dentro del paquete ofimático de Apache OpenOffice.                                                                                                                                                                       | ![](http://upload.wikimedia.org/wikipedia/commons/thumb/0/03/OOoCalc.svg/128px-OOoCalc.svg.png) | La extensión en que se guardan los documentos es: **.odt**              |
+| **Hoja de cálculo dentro de Google Drive**: es un programa gratuito para usuarios que tengan una cuenta en Google, que permite crear documentos en línea. Es posible ejecutar el programa en red, aunque también podemos instalarlo en un ordenador, tableta, etc. y está disponible para todos los sistemas operativos. Cada usuario dispone de una capacidad de 15 GB. |  ![](http://icons.iconarchive.com/icons/marcus-roberto/google-play/256/Google-Drive-icon.png)   | La extensión por defecto en que se guardan los archivos es: **.gsheet** |
 
 ## En los tres temas siguientes vamos a...
 
 ... describir las principales características, puntos fuertes y limitaciones que encontramos en estos programas, vamos a aprender la manera de intercambiar documentos entre todos ellos y daremos los primeros pasos en su utilización.
 
-## ParaSaberMas
+> **tip**
 
-Además de los anteriores existen otros programas de hoja de cálculo, como:
+>## Para Saber Mas
 
-- **tarOffice Calc** de **StarOffice**: es un programa disponible para Linux y compatible con los formatos de Excel, **OpenDocument** y **Lotus** 1-2-3. 
-- **IBM/**Lotus** 1-2-3 de **SmartSuite**:** es el primer programa de hojas de cálculo en introducir rangos de celdas, macros para las planillas y celdas con nombres. También agrega la posibilidad de hacer gráficos y bases de datos.
-- **Corel** **Quattro Pro** de **WordPerfect**: se dice que fue el primer programa en permitir hojas múltiples en un solo archivo, derivando en los cuadernos de trabajo.
-
-- **KSpread** de **KOffice**:** pertenece a un suite ofimática libre, multiplataforma y de código abierto para Linux. Soporta múltiples hojas por documento, plantillas, series y más de cien fórmulas matemáticas. Importa diferentes formatos de hojas de cálculo mediante filtros.
-
-- **Gnumeric de GnomeOffice**: es una hoja de cálculo para Windows y Linux, con las mismas funciones que Excel, además de otras 154 que no encontramos en el programa de Microsoft, formatos de Excel para las celdas, tiene una herramienta de búsqueda dentro de las hojas de cálculo de cualquier formato, pero no puede abrir hojas del formato MS Excel 2007.
-
-- **Numbers:** es para los ordenadores **Mac** (**Apple**), está integrada en iWork de Apple y tiene las mismas utilidades que **Excel**. Cuenta también con más de treinta plantillas predefinidas en las que ya están calculadas las fórmulas o el tipo de letra, entre otros. Es compatible con **Excel** y permite exportar en PDF
+>Además de los anteriores existen otros programas de hoja de cálculo, como:
+>- **tarOffice Calc** de **StarOffice**: es un programa disponible para Linux y compatible con los formatos de Excel, **OpenDocument** y **Lotus** 1-2-3. 
+>- **IBM/**Lotus** 1-2-3 de **SmartSuite**:** es el primer programa de hojas de cálculo en introducir rangos de celdas, macros para las planillas y celdas con nombres. También agrega la posibilidad de hacer gráficos y bases de datos.
+>- **Corel** **Quattro Pro** de **WordPerfect**: se dice que fue el primer programa en permitir hojas múltiples en un solo archivo, derivando en los cuadernos de trabajo.
+>- **KSpread** de **KOffice**:** pertenece a un suite ofimática libre, multiplataforma y de código abierto para Linux. Soporta múltiples hojas por documento, plantillas, series y más de cien fórmulas matemáticas. Importa diferentes formatos de hojas de cálculo mediante filtros.
+>- **Gnumeric de GnomeOffice**: es una hoja de cálculo para Windows y Linux, con las mismas funciones que Excel, además de otras 154 que no encontramos en el programa de Microsoft, formatos de Excel para las celdas, tiene una herramienta de búsqueda dentro de las hojas de cálculo de cualquier formato, pero no puede abrir hojas del formato MS Excel 2007.
+>- **Numbers:** es para los ordenadores **Mac** (**Apple**), está integrada en iWork de Apple y tiene las mismas utilidades que **Excel**. Cuenta también con más de treinta plantillas predefinidas en las que ya están calculadas las fórmulas o el tipo de letra, entre otros. Es compatible con **Excel** y permite exportar en PDF
 
