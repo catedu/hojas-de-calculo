@@ -1,20 +1,10 @@
 {
-    "plugins": ["youtube", "accordion", "image-captions", "styled-blockquotes", "localized-footer", "git-author", "githubcontributors", "favicon", "fbqx"],
+    "plugins": ["youtube", "accordion", "image-captions", "styled-blockquotes", "favicon", "fbqx", "gist"],
     "title": "Curso básico de hojas de cálculo",
     "author": "Carmen Tobeña Arasanz",
     "pluginsConfig": {
         "image-captions": {
             "caption": "Imagen - _CAPTION_"
-        },
-        "localized-footer": {
-            "hline": true,
-            "filename": "./FOOTER.md"
-        },
-        "git-author": {
-            "position": "bottom",
-            "modifyTpl": "Ultima actualización por {user} {timeStamp}",
-            "createTpl": false,
-            "timeStampFormat": "DD-MM-YYYY HH:mm:ss"
         },
         "githubcontributors": {
             "githubOwner": "catedu",

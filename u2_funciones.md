@@ -33,15 +33,17 @@ En todos ellos la manera de acceder a esas funciones es la misma:
 >- Para [Drive de Google](https://support.google.com/drive/table/25273?hl=es)
 
 ___
->**tip**
 
-># ParaSaberMas
+> **tip**
+
+># Para Saber Mas
 
 >La mayor parte de las funciones aparecen en los tres programas tratados en el curso.
 
 >Sin embargo **Google Drive** presenta algunas excepciones como son:
 
 >- **=Googletranslate** para traducir textos;
-
 >- **=image()** para insertar imágenes adaptadas al tamaño real de la celda
 
+
+{% include "FOOTER.md" %}

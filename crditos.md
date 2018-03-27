@@ -5,17 +5,4 @@
 
 Carmen Tobeña Arasanz
 
- 
-
- 
-
-**© Gobierno de Aragón**
-
-**Materiales cofinanciados por Fondo Social Europeo**
-
-![](img/FSE_grande_fondo_blanco.jpg)
-
-## Contribuidores
-
-{% GitHubContributors %}
-{% endGitHubContributors %}
+{% include "git+https://github.com/catedu/faq-aularagon.git/imagenes_creditos.md" %}
