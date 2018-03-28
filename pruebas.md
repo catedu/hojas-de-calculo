@@ -1,10 +1,15 @@
 # Página de pruebas
 
-<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script>
-<script>
-  var d = new Date( {{ file.mtime }} )
-</script>
+{% filter title %}
+may the force be with you
+{% endfilter %}
 
+{% filter replace("force", "forth") %}
+may the force be with you
+{% endfilter %}
 
+{% for collaborator in book.collaborators %}
+* {{ collaborator.name }}
+{% endfor %}
 
 {% include "FOOTER.md" %}

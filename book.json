@@ -1,7 +1,27 @@
 {
     "plugins": ["youtube", "accordion", "image-captions", "styled-blockquotes", "favicon", "fbqx", "gist"],
     "title": "Curso básico de hojas de cálculo",
+    "description": "Curso en el que aprenderás a trabajar hojas de cálculo",
+    "language": "es",
     "author": "Carmen Tobeña Arasanz",
+    "styles": {
+        "website": "styles/err.css",
+        "ebook": "styles/err.css",
+        "pdf": "styles/err.css",
+        "mobi": "styles/mobi.css",
+        "epub": "styles/epub.css"
+    },
+    "pdf": {
+        "headerTemplate": "header.html",
+        "footerTemplate": "Footer HTML template. Available variables: _PAGENUM_, _TITLE_, _AUTHOR_ and _SECTION_."
+    },
+    "variables": {
+        "collaborators": [
+            { "name": "Javier Garrido Albsea", "importance": 3 },
+            { "name": "Jesús López de Leyva", "importance": 2 }
+
+        ]
+    },
     "pluginsConfig": {
         "image-captions": {
             "caption": "Imagen - _CAPTION_"
