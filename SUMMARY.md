@@ -21,20 +21,19 @@ ____
 		* [Operaciones con funciones](operaciones_con_funciones.md)
 		* [Tipos de referencias](tipos_de_referencias.md)
 	* [U2. Funciones](u2_funciones.md)
-		* [Pruebas](pruebas.md)
 		* [Ejemplos de funciones](ejemplos_de_funciones.md)
 		* [Propuestas didácticas](propuestas_didcticas.md)
-* [Créditos](crditos.md)
 
-<!--
-### MÓDULO 3: Gráficos | M3: Gráficos 
+### 3 Gráficos 
 * [MÓDULO 3: Gráficos](index2.md)
 * [Contenidos](contenidos2.md)
 	* [U1. Partes de un gráfico](u1_partes_de_un_grfico.md)
 	* [U2. Tipos de gráficos](u2_tipos_de_grficos.md)
 	* [U3. Crear y editar graficos](u3_crear_y_editar_graficos.md)
 	* [U4. Propuestas didácticas](u4_propuestas_didcticas.md)
-* [Créditos](crditos2.md)
+* [Créditos](crditos.md)
+
+<!--
 ### M4: Otras herramientas | M4: Otras herramientas 
 * [M4: Otras herramientas](index3.md)
 * [Contenidos](contenidos3.md)

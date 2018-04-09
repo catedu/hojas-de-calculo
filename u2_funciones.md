@@ -45,5 +45,3 @@ ___
 >- **=Googletranslate** para traducir textos;
 >- **=image()** para insertar imágenes adaptadas al tamaño real de la celda
 
-
-{% include "FOOTER.md" %}
