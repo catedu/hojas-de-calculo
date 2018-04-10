@@ -1,7 +1,6 @@
 
 # U1. Herramientas que facilitan el trabajo
 
- 
 
 **Inmovilizar filas y/o columnas**
 
@@ -12,39 +11,25 @@ Con esta herramienta logramos dejar **fijas** filas y/o columnas, de forma que a
 1. Situar el cursor en la celda situada por debajo (si queremos inmovilizar filas) y/o a la derecha (si queremos inmovilizar columnas) de la última fila o columna que queremos que quede bloqueada. Es decir, quedará bloqueado todo lo que esté situado a la izquierda o por encima de la celda donde esté el cursor.
 
 1. Accede a la opción de inmovilizar paneles. El modo de seleccionar esta opción cambia en los distintos programas:
+    * En cualquier versión de [Excel](http://office.microsoft.com/es-es/excel-help/inmovilizar-o-bloquear-filas-y-columnas-HP001217048.aspx), tienes que acceder al **menú Vista** --- **Ventana** --- **Inmovilizar paneles**
 
-<li style="list-style-type: none;">
-<ul>
-- En cualquier versión de [Excel](http://office.microsoft.com/es-es/excel-help/inmovilizar-o-bloquear-filas-y-columnas-HP001217048.aspx), tienes que acceder al **menú Vista** --- **Ventana** --- **Inmovilizar paneles**
+    ![4_01: Captura de pantalla propia - Inmovilizar paneles en Excel](img/Figura_4_3.jpg)
 
-![](img/Figura_4_3.jpg)
-| **Figura 4_01: Captura de pantalla propia. Inmovilizar paneles en Excel**
+    * En [Calc](http://wiki.open-office.es/Fijar_paneles_en_OpenOffice_Calc), hay que seleccionar el **menú Ventana** --- **Fijar**
+    * En [Drive](https://support.google.com/drive/answer/54813?hl=es), debes acceder al **menú Ver** --- **Inmovilizar**
 
- 
+>**tip**
 
-<li style="list-style-type: none;">
-<ul>
-- En [Calc](http://wiki.open-office.es/Fijar_paneles_en_OpenOffice_Calc), hay que seleccionar el **menú Ventana** --- **Fijar**
+>## Caso práctico
 
- 
+>Partiendo del archivo visto en la introducción del módulo 4, [hoja de cálculo](http://aularagon.catedu.es/materialesaularagon2013/hojacalc/datos.xls), inmoviliza paneles para lograr moverte sin dificultad por toda la hoja sin perder de vista los encabezados de fila y columna.
 
-<li style="list-style-type: none;">
-<ul>
-- En [Drive](https://support.google.com/drive/answer/54813?hl=es), debes acceder al **menú Ver** --- **Inmovilizar**
+>%accordion%Solución%accordion%
 
- 
+>Tienes que situarte en la celda **B4** para fijar tanto las filas como las columnas anteriores.
 
- 
+>%/accordion%
 
-## Caso práctico
-
-Partiendo del archivo visto en la introducción del módulo 4, [hoja de cálculo](http://aularagon.catedu.es/materialesaularagon2013/hojacalc/datos.xls), inmoviliza paneles para lograr moverte sin dificultad por toda la hoja sin perder de vista los encabezados de fila y columna.
-
-<script type="text/javascript">var feedbackquesFeedback0b15text = "Mostrar retroalimentación";</script><input class="feedbackbutton" name="toggle-feedback-quesFeedback0b15" onclick="$exe.toggleFeedback(this,true);return false" type="button" value="Mostrar retroalimentación"/>
-
-### Retroalimentación
-
-Tienes que situarte en la celda **B4** para fijar tanto las filas como las columnas anteriores 
 
 **Filtrar y ordenar datos**
 
@@ -66,25 +51,27 @@ En los siguientes enlaces puedes consultar la manera de realizar estas dos opera
 
  
 
-## Caso práctico
+>**tip**
 
-Partiendo del archivo [Empresa](http://aularagon.catedu.es/materialesaularagon2013/hojacalc/empresa.xls), realiza las siguientes acciones:
+>## Caso práctico
+>
+>Partiendo del archivo [Empresa](http://aularagon.catedu.es/materialesaularagon2013/hojacalc/empresa.xls), realiza las siguientes acciones:
+>
+>1. Ordena los datos por orden alfabético del apellido, ¿quién es el primero y el último?
+>1. Ordena de mayor a menor sueldo, ¿quién es el primero y el último?
+>1. Aplica un filtro para visualizar el personal que trabaja en el departamento de dirección, ¿cuántos son?
+>1. Aplica un filtro que permita ver los empleados cuyo sueldo oscile entre 1200 y 2000 euros, ¿cuántos son?
+>1. Aplica un filtro que muestre los empleados que trabajen en el departamento de comercial y ganen más de 1200 euros ¿cuántos son?
+>
+>%accordion%Solución%accordion%
+>
+>1. Son el 4 y el 1
+>1. Son el 1 y el 3
+>1. Son 3 personas
+>1. Son 8 personas
+>1. Son 3 personas
+>
+>%/accordion%
 
-1. Ordena los datos por orden alfabético del apellido, ¿quién es el primero y el último?
-1. Ordena de mayor a menor sueldo, ¿quién es el primero y el último?
-1. Aplica un filtro para visualizar el personal que trabaja en el departamento de dirección, ¿cuántos son?
-1. Aplica un filtro que permita ver los empleados cuyo sueldo oscile entre 1200 y 2000 euros, ¿cuántos son?
-1. Aplica un filtro que muestre los empleados que trabajen en el departamento de comercial y ganen más de 1200 euros ¿cuántos son?
 
-<script type="text/javascript">var feedbackquesFeedback0b16text = "Mostrar retroalimentación";</script><input class="feedbackbutton" name="toggle-feedback-quesFeedback0b16" onclick="$exe.toggleFeedback(this,true);return false" type="button" value="Mostrar retroalimentación"/>
-
-### Retroalimentación
-
-Respuestas:
-
-1. Son el 4 y el 1
-1. Son el 1 y el 3
-1. Son 3 personas
-1. Son 8 personas
-1. Son 3 personas
 

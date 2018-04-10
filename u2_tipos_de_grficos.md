@@ -110,7 +110,7 @@ Para conocer todas las posibilidades de cada programa, puedes acceder a los sigu
 
 >**success**
 >
-># ParaSaberMas
+># Para Saber Más
 >
 >En  **Drive de Google** existe un tipo específico de gráficos que se denomina **Minigráfico**, que es parecido a un gráfico de líneas, pero muestra líneas de datos en distintos ejes apilados. 
 
@@ -133,17 +133,21 @@ Observa los siguientes gráficos e identifica cada uno rellenando el texto infer
 ![](img/Figura_3_6.jpg)
 
 {%fbq%}
-El gráfico es 1 es un tipo de gráfico de $$barras## y subtipo $$cono## $$horizontal## $$agrupado##.
+El gráfico es 1 es un tipo de gráfico de $$barras## y subtipo $$cono horizontal agrupado##.
 
 El gráfico 2 es un tipo de gráfico $$circular## de subtipo $$seleccionado##.
 
-Eñ gráfico 3 utiliza un tipo de gráfico $$
+El gráfico 3 utiliza un tipo de gráfico $$XY## $$dispersión## de subtipo $$dispersión solo con marcadores##.
+
+La representación 4 es un tipo de gráfico de $$línea## de subtipo $$línea con marcadores##
 {%endfbq%}
 
 
-# ParaSaberMas1
 
-Uno de los gráficos más novedosos es el gráfico **mapas** de Drive de Google, que permite representar valores en un mapa de un país, continente o región. Utiliza colores asociados a la mayor o menor densidad directamente relacionada con el valor asignado a cada zona.
-
+>**success**
+># Para Saber Más
+>
+>Uno de los gráficos más novedosos es el gráfico **mapas** de Drive de Google, que permite representar valores en un mapa de un país, continente o región. Utiliza colores asociados a la mayor o menor densidad directamente relacionada con el valor asignado a cada zona.
+>
  
 

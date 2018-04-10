@@ -1,4 +1,3 @@
-
 # U1. Partes de un gráfico
 
 Un gráfico es la representación gráfica de los datos de una hoja de cálculo, con la enorme ventaja de que, si estos datos cambian, el gráfico se actualiza automáticamente. 
