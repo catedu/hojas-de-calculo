@@ -12,7 +12,7 @@ A modo de ejemplo vamos a tratar aquí la manera de crear un gráfico y las posi
 <table>
   <tr>
     <td>Microsoft Excel 2010</td>
-    <td colspan="2"><a href="http://office.microsoft.com/es-hn/excel-help/como-crear-un-grafico-basico-en-excel-2010-RZ102559017.aspx">Crear y editar gráfico</a></td>
+    <td colspan="2"><a href="https://support.office.com/es-es/article/crear-un-gr%C3%A1fico-de-principio-a-fin-0baf399e-dd61-4e18-8a73-b3fd5d5680c2">Crear y editar gráfico</a></td>
   </tr>
   <tr>
     <td>Calc de Apache OpenOffice</td>
