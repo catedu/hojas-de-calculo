@@ -42,7 +42,7 @@ En los siguientes enlaces puedes aprender los primeros pasos con la aplicación 
 
 - [Guardar y abrir una hoja de cálculo](https://support.office.com/es-co/article/Guardar-y-abrir-una-hoja-de-c%C3%A1lculo-fcf25d88-dcfb-4be1-aa07-bbfa2d6424ba)
 - [Conceptos básicos de hojas de cálculo](http://www.aulaclic.es/excel2007/b_2_1_1.htm)
-- [Aplicar formato](https://support.office.com/es-HN/article/Escribir-texto-y-aplicar-formato-f56c5c91-e8b6-4023-abb3-640ea00546b7)
+- [Aplicar formato](https://support.office.com/es-es/article/formatos-de-n%C3%BAmero-disponibles-0afe8f52-97db-41f1-b972-4b46e9f1e8d2?ui=es-ES&rs=es-ES&ad=ES)
 - [Series y datos](https://support.office.com/es-hn/article/Rellenar-datos-autom%C3%A1ticamente-en-celdas-de-hojas-de-c%C3%A1lculo-71eeb2f2-d689-459b-be7e-614f03e69012?ui=es-ES&amp;rs=es-HN&amp;ad=HN)
 
  
