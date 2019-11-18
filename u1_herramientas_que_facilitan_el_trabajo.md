@@ -65,7 +65,7 @@ En los siguientes enlaces puedes consultar la manera de realizar estas dos opera
 > 1. Son el 4 y el 1
 > 2. Son el 1 y el 3
 > 3. Son 3 personas
-> 4. Son 8 personas
+> 4. Son 9 personas
 > 5. Son 4 personas
 >
 > %/accordion%
