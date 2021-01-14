@@ -55,6 +55,6 @@ Todas las respuestas que recibas recibirán nota automáticamente en las pregunt
 
 > **tip**
 > 
-> Para más información sobre el uso de cuestionarios de Google como tests y su integración con Google Classroom visita [este otro curso de Aularagón](https://catedu.gitbooks.io/google-classroom-2018/content/modulo_4_mas_alla_de_classroom/41_examenes_en_classroom.html).
+> Para más información sobre el uso de cuestionarios de Google como tests y su integración con Google Classroom visita [este otro curso de Aularagón](https://catedu.github.io/google-classroom-2018/modulo_4_mas_alla_de_classroom/41_examenes_en_classroom.html).
 
 ----
